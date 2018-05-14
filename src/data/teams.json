@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Utah Jazz",
+        "arena": "Vivint Smart Home Arena",
+        "head_coach": "Quin Snyder",
+        "championships": "0",
+        "conference_titles": "2 (1997, 1998)",
+        "retired_numbers": "9 (1,4,7,9,12,14,32,35,53)",
+        "conference": "West",
+        "division": "Northwest",
+        "imageUrl": "www.nba.com/jazz",
+        "id": 1
+    }
+
+    {
+        "name": "San Antonio Spurs",
+        "arena": "AT&T Center",
+        "head_coach": "Gregg Popovich",
+        "championships": "5 (1999,2003,2005,2007,2014)",
+        "conference_titles": "6 (1999,2003,2005,2007,2013,2014)",
+        "retired_numbers": " 8(00,6,12,13,21,32,44,50)",
+        "conference": "West",
+        "division": "Southwest",
+        "imageUrl": "www.nba.com/spurs",
+        "id": 2
+    }
+]
