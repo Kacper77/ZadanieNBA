@@ -5,13 +5,69 @@
         "head_coach": "Quin Snyder",
         "championships": "0",
         "conference_titles": "2 (1997, 1998)",
-        "retired_numbers": "9 (1,4,7,9,12,14,32,35,53)",
-        "conference": "West",
+        "retired_numbers": "(1,4,7,9,12,14,32,35,53)",
+        "conference": "Western",
         "division": "Northwest",
         "website": "jazz",
-        "imageUrl": "może tu pykniemy linka do loga drużyny?",
-        "id": 1,
-    }
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/UTA_logo.svg",
+        "id": 1
+    },
+
+    {
+        "name": "Portland Trail Blazers",
+        "arena": "Moda Center",
+        "head_coach": "Terry Stotts",
+        "championships": "1 (1977)",
+        "conference_titles": "3 (1977,1990,1992)",
+        "retired_numbers": "(1,13,14,15,20,22,30,32,36,45,77)",
+        "conference": "Western",
+        "division": "Northwest",
+        "website": "blazers",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/POR_logo.svg",
+        "id": 3
+    },
+
+    {
+        "name": "Oklahoma City Thunder",
+        "arena": "Chesapeake Energy Arena",
+        "head_coach": "Billy Donovan",
+        "championships": "1 (1979)",
+        "conference_titles": "4 (1978,1979,1996,2012)",
+        "retired_numbers": "(1,10,19,24,32,43)",
+        "conference": "Western",
+        "division": "Northwest",
+        "website": "thunder",
+        "imageUrl": "?",
+        "id": 4
+    },
+
+    {
+        "name": "Minnesota Timberwolves",
+        "arena": "Target Center",
+        "head_coach": "Tom Thibodeau",
+        "championships": "0",
+        "conference_titles": "0",
+        "retired_numbers": "(2)",
+        "conference": "Western",
+        "division": "Northwest",
+        "website": "wolves",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/MIN_logo.svg",
+        "id": 5
+    },
+
+    {
+        "name": "Denver Nuggets",
+        "arena": "Pepsi Center",
+        "head_coach": "Michael Malone",
+        "championships": "0",
+        "conference_titles": "0",
+        "retired_numbers": "(2,12,33,40,44,55)",
+        "conference": "Western",
+        "division": "Northwest",
+        "website": "nuggets",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/DEN_logo.svg",
+        "id": 6
+    },
 
     {
         "name": "San Antonio Spurs",
@@ -19,10 +75,347 @@
         "head_coach": "Gregg Popovich",
         "championships": "5 (1999,2003,2005,2007,2014)",
         "conference_titles": "6 (1999,2003,2005,2007,2013,2014)",
-        "retired_numbers": " 8(00,6,12,13,21,32,44,50)",
-        "conference": "West",
+        "retired_numbers": "(00,6,12,13,21,32,44,50)",
+        "conference": "Western",
         "division": "Southwest",
         "website": "spurs",
-        "id": 2,
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/SAS_logo.svg",
+        "id": 2
+    },
+
+    {
+        "name": "Houston Rockets",
+        "arena": "Toyota Center",
+        "head_coach": "Mike D'Antoni",
+        "championships": "2 (1994,1995)",
+        "conference_titles": "4 (1981,1986,1994,1995)",
+        "retired_numbers": "(11,22,23,24,34,45)",
+        "conference": "Western",
+        "division": "Southwest",
+        "website": "rockets",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/HOU_logo.svg",
+        "id": 7
+    },
+
+    {
+        "name": "New Orleans Pelicans",
+        "arena": "Smoothie King Center",
+        "head_coach": "Alvin Gentry",
+        "championships": "0",
+        "conference_titles": "0",
+        "retired_numbers": "(7)",
+        "conference": "Western",
+        "division": "Southwest",
+        "website": "pelicans",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/NOP_logo.svg",
+        "id": 8
+    },
+
+    {
+        "name": "Dallas Mavericks",
+        "arena": "American Airlines Center",
+        "head_coach": "Rick Carlisle",
+        "championships": "1 (2012)",
+        "conference_titles": "2 (2006,2011)",
+        "retired_numbers": "(12,15,22)",
+        "conference": "Western",
+        "division": "Southwest",
+        "website": "mavericks",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/DAL_logo.svg",
+        "id": 9
+    },
+
+    {
+        "name": "Memphis Grizzlies",
+        "arena": "FedExForum",
+        "head_coach": "J.B. Bickerstaff",
+        "championships": "0",
+        "conference_titles": "0",
+        "retired_numbers": "-",
+        "conference": "Western",
+        "division": "Southwest",
+        "website": "grizzlies",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/MEM_logo.svg",
+        "id": 10
+    },
+
+    {
+        "name": "Golden State Warriors",
+        "arena": "Oracle Arena",
+        "head_coach": "Steve Kerr",
+        "championships": "5 (1947,1956,1975,2015,2017)",
+        "conference_titles": "9 (1947,1948,1956,1964,1967,1975,1976,2015,2016,2017)",
+        "retired_numbers": "(13,14,16,17,24,42)",
+        "conference": "Western",
+        "division": "Pacific",
+        "website": "warriors",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/GSW_logo.svg",
+        "id": 11
+    },
+
+    {
+        "name": "Los Angeles Clippers",
+        "arena": "Staples Center",
+        "head_coach": "Doc Rivers",
+        "championships": "0",
+        "conference_titles": "0",
+        "retired_numbers": "-",
+        "conference": "Western",
+        "division": "Pacific",
+        "website": "clippers",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/LAC_logo.svg",
+        "id": 12
+    },
+
+    {
+        "name": "Los Angeles Lakers",
+        "arena": "Staples Center",
+        "head_coach": "Luke Walton",
+        "championships": "16 (1949,1950,1952,1953,1954,1972,1980,1982,1985,1987,1988,2000,2001,2002,2009,2010)",
+        "conference_titles": "16",
+        "retired_numbers": "(8,13,22,24,25,32,33,34,42,44,52)",
+        "conference": "Western",
+        "division": "Pacific",
+        "website": "lakers",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/LAL_logo.svg",
+        "id": 13
+    },
+
+    {
+        "name": "Sacramento Kings",
+        "arena": "Golden 1 Center",
+        "head_coach": "Dave Joerger",
+        "championships": "1 (1951)",
+        "conference_titles": "1 (1951)",
+        "retired_numbers": "(1,2,4,6,11,12,14,16,21,27,44)",
+        "conference": "Western",
+        "division": "Pacific",
+        "website": "kings",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/SAC_logo.svg",
+        "id": 14
+    },
+
+    {
+        "name": "Phoenix Suns",
+        "arena": "Talking StickResort Arena",
+        "head_coach": "Igor Kokoskov",
+        "championships": "0",
+        "conference_titles": "2 (1976,1993)",
+        "retired_numbers": "(5,6,7,9,13,24,33,34,42,44)",
+        "conference": "Western",
+        "division": "Pacific",
+        "website": "suns",
+        "imageUrl": "?",
+        "id": 15
+    },
+
+    {
+        "name": "Toronto Raptors",
+        "arena": "Air Canada Centre",
+        "head_coach": "?",
+        "championships": "0",
+        "conference_titles": "0",
+        "retired_numbers": "-",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "website": "raptors",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/TOR_logo.svg",
+        "id": 16
+    },
+
+    {
+        "name": "Boston Celtics",
+        "arena": "TD Garden",
+        "head_coach": "Brad Stevens",
+        "championships": "17 (1957,1959-1966,1968,1969,1974,1976,1981,1984,1986,2008)",
+        "conference_titles": "21",
+        "retired_numbers": "(00,1,2,3,6,10,14,15,16,17,18,19,21,22,23,24,25,31,32,33,34,35)",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "website": "celtics",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/BOS_logo.svg",
+        "id": 17
+    },
+
+    {
+        "name": "Philadelphia 76ers",
+        "arena": "Wells Fargo Center",
+        "head_coach": "Brett Brown",
+        "championships": "3 (1955,1967,1983)",
+        "conference_titles": "9",
+        "retired_numbers": "(3,4,6,10,13,15,24,32,34)",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "website": "sixers",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/PHI_logo.svg",
+        "id": 18
+    },
+
+    {
+        "name": "New York Knicks",
+        "arena": "Madison Square Garden",
+        "head_coach": "David Fizdale",
+        "championships": "2 (1970,1973)",
+        "conference_titles": "8 (1951,1952,1953,1970,1972,1973,1994,2013)",
+        "retired_numbers": "(10,12,15,19,22,24,33)",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "website": "knicks",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/NYK_logo.svg",
+        "id": 19
+    },
+
+    {
+        "name": "Brooklyn Nets",
+        "arena": "Barclays Center",
+        "head_coach": "Kenny Atkinson",
+        "championships": "0",
+        "conference_titles": "2 (2002,2003)",
+        "retired_numbers": "(3,5,23,25,32,52)",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "website": "nets",
+        "imageUrl": "?",
+        "id": 20
+    },
+
+    {
+        "name": "Cleveland Cavaliers",
+        "arena": "Quicken Loans Arena",
+        "head_coach": "Tyronn Lue",
+        "championships": "1 (2016)",
+        "conference_titles": "4 (2007,2015,2016,2017)",
+        "retired_numbers": "(7,11,22,25,34,42,43)",
+        "conference": "Eastern",
+        "division": "Central",
+        "website": "cavaliers",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/CLE_logo.svg",
+        "id": 21
+    },
+
+    {
+        "name": "Indiana Pacers",
+        "arena": "Bankers Life Fieldhouse",
+        "head_coach": "Nate McMillan",
+        "championships": "0",
+        "conference_titles": "1 (2000)",
+        "retired_numbers": "(30,31,34,35)",
+        "conference": "Eastern",
+        "division": "Central",
+        "website": "pacers",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/IND_logo.svg",
+        "id": 22
+    },
+
+    {
+        "name": "Milwaukee Bucks",
+        "arena": "Wisconsin Entertainment and Sports Center",
+        "head_coach": "Joe Prunty",
+        "championships": "1 (1971)",
+        "conference_titles": "2 (1971,1974)",
+        "retired_numbers": "(1,2,4,10,14,16,32,33)",
+        "conference": "Eastern",
+        "division": "Central",
+        "website": "bucks",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/MIL_logo.svg",
+        "id": 23
+    },
+
+    {
+        "name": "Detroit Pistons",
+        "arena": "Little Caesars Arena",
+        "head_coach": "?",
+        "championships": "3 (1989,1990,2004)",
+        "conference_titles": "7 (1955,1956,1988,1989,1990,2004,2005)",
+        "retired_numbers": "(1,2,3,4,10,11,15,16,21,32,40)",
+        "conference": "Eastern",
+        "division": "Central",
+        "website": "pistons",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/DET_logo.svg",
+        "id": 24
+    },
+
+    {
+        "name": "Chicago Bulls",
+        "arena": "United Center",
+        "head_coach": "Fred Hoiberg",
+        "championships": "6 (1991,1992,1993,1996,1997,1998)",
+        "conference_titles": "6 (1991,1992,1993,1996,1997,1998)",
+        "retired_numbers": "(4,10,23,33)",
+        "conference": "Eastern",
+        "division": "Central",
+        "website": "bulls",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/CHI_logo.svg",
+        "id": 25
+    },
+
+    {
+        "name": "Miami Heat",
+        "arena": "American Airlines Arena",
+        "head_coach": "Erik Spoelstra",
+        "championships": "3 (2006,2012,2013)",
+        "conference_titles": "5 (2006,2011,2012,2013,2014)",
+        "retired_numbers": "(10,23,32,33)",
+        "conference": "Eastern",
+        "division": "Southeast",
+        "website": "heat",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/MIA_logo.svg",
+        "id": 26
+    },
+
+    {
+        "name": "Washington Bullets",
+        "arena": "Capital One Arena",
+        "head_coach": "Scott Brooks",
+        "championships": "1 (1978)",
+        "conference_titles": "4 (1971,1975,1978,1979)",
+        "retired_numbers": "(10,11,25,41,45)",
+        "conference": "Eastern",
+        "division": "Southeast",
+        "website": "bullets",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/WAS_logo.svg",
+        "id": 27
+    },
+
+    {
+        "name": "Charlotte Hornets",
+        "arena": "Spectrum Center",
+        "head_coach": "James Borrego",
+        "championships": "0",
+        "conference_titles": "0",
+        "retired_numbers": "(13)",
+        "conference": "Eastern",
+        "division": "Southeast",
+        "website": "hornets",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/CHA_logo.svg",
+        "id": 28
+    },
+
+    {
+        "name": "Orlando Magic",
+        "arena": "Amway Center",
+        "head_coach": "?",
+        "championships": "0",
+        "conference_titles": "2 (1995,2009)",
+        "retired_numbers": "(6)",
+        "conference": "Eastern",
+        "division": "Southeast",
+        "website": "magic",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/ORL_logo.svg",
+        "id": 29
+    },
+
+    {
+        "name": "Atlanta Hawks",
+        "arena": "Philips Arena",
+        "head_coach": "Lloyd Pierce",
+        "championships": "1 (1958)",
+        "conference_titles": "4 (1957,1958,1960,1961)",
+        "retired_numbers": "(9,21,23,44,55,59)",
+        "conference": "Eastern",
+        "division": "Southeast",
+        "website": "hawks",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/ATL_logo.svg",
+        "id": 30
     }
 ]
