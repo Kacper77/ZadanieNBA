@@ -10,7 +10,6 @@ const TeamLogoList = (props) => (
                     <Link className='logo' to={'teams/team/' + team.id}>
                         <TeamLogo team={team} />
                     </Link>
-                    <button onClick={props.deleteTeam.bind(null, team.id)}>DELETE</button>
                 </div>
             )
         })}

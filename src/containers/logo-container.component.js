@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import TeamLogoList from '../presentational/logo-list.component';
-import { getTeams, searchTeams, deleteTeam } from '../actions/actions-teams';
+import { searchTeam } from '../actions/actions-teams';
 
 class TeamLogoContainer extends Component {
     constructor(props) {
@@ -9,16 +9,11 @@ class TeamLogoContainer extends Component {
     }
 
     componentDidMount() {
-        this.props.dispatch(getTeams());
-        this.props.dispatch(searchTeams(''));
+        this.props.dispatch(searchTeam(''));
     }
 
     search(event) {
-        this.props.dispatch(searchTeams(event.target.value));
-    }
-
-    deleteTeam(id) {
-        this.props.dispatch(deleteTeam(id));
+        this.props.dispatch(searchTeam(event.target.value));
     }
 
     render() {

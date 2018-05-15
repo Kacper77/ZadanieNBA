@@ -24,7 +24,7 @@ class DivisionsContainer extends Component {
         return (
             <div>
                 <select onChange={e => this.chooseDivision(e)}>
-                    <option value="Northwewst">Północny Zachód</option>
+                    <option value="Northwest">Północny Zachód</option>
                     <option value="Southwest">Południowy Zachód</option>
                     <option value="Pacific">Pacyfik</option>
                 </select>

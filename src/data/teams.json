@@ -8,8 +8,9 @@
         "retired_numbers": "9 (1,4,7,9,12,14,32,35,53)",
         "conference": "West",
         "division": "Northwest",
-        "imageUrl": "www.nba.com/jazz",
-        "id": 1
+        "website": "jazz",
+        "imageUrl": "może tu pykniemy linka do loga drużyny?",
+        "id": 1,
     }
 
     {
@@ -21,7 +22,7 @@
         "retired_numbers": " 8(00,6,12,13,21,32,44,50)",
         "conference": "West",
         "division": "Southwest",
-        "imageUrl": "www.nba.com/spurs",
-        "id": 2
+        "website": "spurs",
+        "id": 2,
     }
 ]

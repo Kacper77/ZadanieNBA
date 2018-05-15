@@ -35,6 +35,11 @@ const CountryDetails = (props) => (
                     <span>{props.team.retired_numbers}</span>
                     <span>Zastrzeżone numery</span>
                 </div>
+
+                <div>
+                    <span>{props.team.website}</span>
+                    <span>Strona zespołu</span>
+                </div>
             </div>
         </div>
     </div>
