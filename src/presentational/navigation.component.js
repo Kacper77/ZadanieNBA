@@ -11,8 +11,6 @@ const Navigation = props => (
                 <div className="collapse navbar-collapse">
                     <ul className="nav navbar-nav">
                         <li><Link to="/teams">Teams</Link></li>
-                        <li><Link to="/conferences">Conferences</Link></li>
-                        <li><Link to="/divisions">Divisions</Link></li>
                         <li><Link to="/StepByStep">StepByStep</Link></li>
                         <li><Link to="/WatchingLive">WatchingLive</Link></li>
                     </ul>

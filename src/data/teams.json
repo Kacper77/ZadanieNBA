@@ -8,7 +8,7 @@
         "retired_numbers": "(1,4,7,9,12,14,32,35,53)",
         "conference": "Western",
         "division": "Northwest",
-        "website": "jazz",
+        "website": "http://www.nba.com/jazz",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/UTA_logo.svg",
         "id": 1
     },
@@ -22,7 +22,7 @@
         "retired_numbers": "(1,13,14,15,20,22,30,32,36,45,77)",
         "conference": "Western",
         "division": "Northwest",
-        "website": "blazers",
+        "website": "http://www.nba.com/blazers",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/POR_logo.svg",
         "id": 3
     },
@@ -36,8 +36,8 @@
         "retired_numbers": "(1,10,19,24,32,43)",
         "conference": "Western",
         "division": "Northwest",
-        "website": "thunder",
-        "imageUrl": "?",
+        "website": "http://www.nba.com/thunder",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/OKC_logo.svg",
         "id": 4
     },
 
@@ -50,7 +50,7 @@
         "retired_numbers": "(2)",
         "conference": "Western",
         "division": "Northwest",
-        "website": "wolves",
+        "website": "http://www.nba.com/wolves",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/MIN_logo.svg",
         "id": 5
     },
@@ -64,7 +64,7 @@
         "retired_numbers": "(2,12,33,40,44,55)",
         "conference": "Western",
         "division": "Northwest",
-        "website": "nuggets",
+        "website": "http://www.nba.com/nuggets",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/DEN_logo.svg",
         "id": 6
     },
@@ -78,7 +78,7 @@
         "retired_numbers": "(00,6,12,13,21,32,44,50)",
         "conference": "Western",
         "division": "Southwest",
-        "website": "spurs",
+        "website": "http://www.nba.com/spurs",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/SAS_logo.svg",
         "id": 2
     },
@@ -92,7 +92,7 @@
         "retired_numbers": "(11,22,23,24,34,45)",
         "conference": "Western",
         "division": "Southwest",
-        "website": "rockets",
+        "website": "http://www.nba.com/rockets",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/HOU_logo.svg",
         "id": 7
     },
@@ -106,7 +106,7 @@
         "retired_numbers": "(7)",
         "conference": "Western",
         "division": "Southwest",
-        "website": "pelicans",
+        "website": "http://www.nba.com/pelicans",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/NOP_logo.svg",
         "id": 8
     },
@@ -120,7 +120,7 @@
         "retired_numbers": "(12,15,22)",
         "conference": "Western",
         "division": "Southwest",
-        "website": "mavericks",
+        "website": "http://www.nba.com/mavericks",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/DAL_logo.svg",
         "id": 9
     },
@@ -134,7 +134,7 @@
         "retired_numbers": "-",
         "conference": "Western",
         "division": "Southwest",
-        "website": "grizzlies",
+        "website": "http://www.nba.com/grizzlies",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/MEM_logo.svg",
         "id": 10
     },
@@ -148,7 +148,7 @@
         "retired_numbers": "(13,14,16,17,24,42)",
         "conference": "Western",
         "division": "Pacific",
-        "website": "warriors",
+        "website": "http://www.nba.com/warriors",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/GSW_logo.svg",
         "id": 11
     },
@@ -162,7 +162,7 @@
         "retired_numbers": "-",
         "conference": "Western",
         "division": "Pacific",
-        "website": "clippers",
+        "website": "http://www.nba.com/clippers",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/LAC_logo.svg",
         "id": 12
     },
@@ -176,7 +176,7 @@
         "retired_numbers": "(8,13,22,24,25,32,33,34,42,44,52)",
         "conference": "Western",
         "division": "Pacific",
-        "website": "lakers",
+        "website": "http://www.nba.com/lakers",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/LAL_logo.svg",
         "id": 13
     },
@@ -190,7 +190,7 @@
         "retired_numbers": "(1,2,4,6,11,12,14,16,21,27,44)",
         "conference": "Western",
         "division": "Pacific",
-        "website": "kings",
+        "website": "http://www.nba.com/kings",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/SAC_logo.svg",
         "id": 14
     },
@@ -204,8 +204,8 @@
         "retired_numbers": "(5,6,7,9,13,24,33,34,42,44)",
         "conference": "Western",
         "division": "Pacific",
-        "website": "suns",
-        "imageUrl": "?",
+        "website": "http://www.nba.com/suns",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/PHX_logo.svg",
         "id": 15
     },
 
@@ -218,7 +218,7 @@
         "retired_numbers": "-",
         "conference": "Eastern",
         "division": "Atlantic",
-        "website": "raptors",
+        "website": "http://www.nba.com/raptors",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/TOR_logo.svg",
         "id": 16
     },
@@ -232,7 +232,7 @@
         "retired_numbers": "(00,1,2,3,6,10,14,15,16,17,18,19,21,22,23,24,25,31,32,33,34,35)",
         "conference": "Eastern",
         "division": "Atlantic",
-        "website": "celtics",
+        "website": "http://www.nba.com/celtics",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/BOS_logo.svg",
         "id": 17
     },
@@ -246,7 +246,7 @@
         "retired_numbers": "(3,4,6,10,13,15,24,32,34)",
         "conference": "Eastern",
         "division": "Atlantic",
-        "website": "sixers",
+        "website": "http://www.nba.com/sixers",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/PHI_logo.svg",
         "id": 18
     },
@@ -260,7 +260,7 @@
         "retired_numbers": "(10,12,15,19,22,24,33)",
         "conference": "Eastern",
         "division": "Atlantic",
-        "website": "knicks",
+        "website": "http://www.nba.com/knicks",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/NYK_logo.svg",
         "id": 19
     },
@@ -274,8 +274,8 @@
         "retired_numbers": "(3,5,23,25,32,52)",
         "conference": "Eastern",
         "division": "Atlantic",
-        "website": "nets",
-        "imageUrl": "?",
+        "website": "http://www.nba.com/nets",
+        "imageUrl": "http://stats.nba.com/media/img/teams/logos/BKN_logo.svg",
         "id": 20
     },
 
@@ -288,7 +288,7 @@
         "retired_numbers": "(7,11,22,25,34,42,43)",
         "conference": "Eastern",
         "division": "Central",
-        "website": "cavaliers",
+        "website": "http://www.nba.com/cavaliers",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/CLE_logo.svg",
         "id": 21
     },
@@ -302,7 +302,7 @@
         "retired_numbers": "(30,31,34,35)",
         "conference": "Eastern",
         "division": "Central",
-        "website": "pacers",
+        "website": "http://www.nba.com/pacers",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/IND_logo.svg",
         "id": 22
     },
@@ -316,7 +316,7 @@
         "retired_numbers": "(1,2,4,10,14,16,32,33)",
         "conference": "Eastern",
         "division": "Central",
-        "website": "bucks",
+        "website": "http://www.nba.com/bucks",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/MIL_logo.svg",
         "id": 23
     },
@@ -330,7 +330,7 @@
         "retired_numbers": "(1,2,3,4,10,11,15,16,21,32,40)",
         "conference": "Eastern",
         "division": "Central",
-        "website": "pistons",
+        "website": "http://www.nba.com/pistons",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/DET_logo.svg",
         "id": 24
     },
@@ -344,7 +344,7 @@
         "retired_numbers": "(4,10,23,33)",
         "conference": "Eastern",
         "division": "Central",
-        "website": "bulls",
+        "website": "http://www.nba.com/bulls",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/CHI_logo.svg",
         "id": 25
     },
@@ -358,7 +358,7 @@
         "retired_numbers": "(10,23,32,33)",
         "conference": "Eastern",
         "division": "Southeast",
-        "website": "heat",
+        "website": "http://www.nba.com/heat",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/MIA_logo.svg",
         "id": 26
     },
@@ -372,7 +372,7 @@
         "retired_numbers": "(10,11,25,41,45)",
         "conference": "Eastern",
         "division": "Southeast",
-        "website": "bullets",
+        "website": "http://www.nba.com/bullets",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/WAS_logo.svg",
         "id": 27
     },
@@ -386,7 +386,7 @@
         "retired_numbers": "(13)",
         "conference": "Eastern",
         "division": "Southeast",
-        "website": "hornets",
+        "website": "http://www.nba.com/hornets",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/CHA_logo.svg",
         "id": 28
     },
@@ -400,7 +400,7 @@
         "retired_numbers": "(6)",
         "conference": "Eastern",
         "division": "Southeast",
-        "website": "magic",
+        "website": "http://www.nba.com/magic",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/ORL_logo.svg",
         "id": 29
     },
@@ -414,7 +414,7 @@
         "retired_numbers": "(9,21,23,44,55,59)",
         "conference": "Eastern",
         "division": "Southeast",
-        "website": "hawks",
+        "website": "http://www.nba.com/hawks",
         "imageUrl": "http://stats.nba.com/media/img/teams/logos/ATL_logo.svg",
         "id": 30
     }

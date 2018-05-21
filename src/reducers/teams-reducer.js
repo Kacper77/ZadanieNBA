@@ -1,4 +1,4 @@
-import { GET_TEAM, SEARCH_TEAMS, SET_CONFERENCE, SET_DIVISION } from '../actions/actions-teams';
+import { GET_TEAM, SEARCH_TEAM, SET_CONFERENCE, SET_DIVISION } from '../actions/actions-teams';
 import teamsData from '../data/teams.json';
 
 const initialState = {
@@ -14,7 +14,7 @@ const teamsReducer = function(state = initialState, action) {
             const selectedTeam = state.teams.find(team => team.id == action.id);
             return Object.assign({}, state, { selectedTeam });
 
-        case SEARCH_TEAMS:
+        case SEARCH_TEAM:
             const foundTeams = state.teams.filter(team => team.name.toLowerCase().includes(action.searchText.toLowerCase()));
             return Object.assign({}, state, { visibleTeams: foundTeams });
 

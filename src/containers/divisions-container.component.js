@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { setDivision, deleteTeam } from '../actions/actions-teams';
+import { setDivision } from '../actions/actions-teams';
 import TeamLogoList from '../presentational/logo-list.component';
 
 class DivisionsContainer extends Component {
@@ -10,10 +10,6 @@ class DivisionsContainer extends Component {
 
     chooseDivision(event) {
         this.props.dispatch(setDivision(event.target.value))
-    }
-
-    deleteTeam(id) {
-        this.props.dispatch(deleteTeam(id));
     }
 
     componentDidMount() {

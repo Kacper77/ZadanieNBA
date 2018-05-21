@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { setConference, deleteTeam } from '../actions/actions-teams';
+import { setConference } from '../actions/actions-teams';
 import TeamLogoList from '../presentational/logo-list.component';
 
 class ConferencesContainer extends Component {
@@ -12,10 +12,6 @@ class ConferencesContainer extends Component {
         this.props.dispatch(setConference(event.target.value))
     }
 
-    deleteTeam(id) {
-        this.props.dispatch(deleteTeam(id));
-    }
-
     componentDidMount() {
         this.props.dispatch(setConference('Zachód'));
     }
@@ -24,8 +20,8 @@ class ConferencesContainer extends Component {
         return (
             <div>
                 <select onChange={e => this.chooseConference(e)}>
-                    <option value="West">Zachód</option>
-                    <option value="East">Wschód</option>
+                    <option value="Western">Zachód</option>
+                    <option value="Eastern">Wschód</option>
                 </select>
                 <TeamLogoList teams={this.props.visibleTeams} deleteTeam={this.deleteTeam.bind(this)} />
             </div>

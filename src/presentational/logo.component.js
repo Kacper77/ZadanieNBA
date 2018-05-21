@@ -1,4 +1,5 @@
 import React from 'react';
+import './logo.css';
 
 const TeamLogo = (props) => (
     <div className="team-logo-wrapper">
