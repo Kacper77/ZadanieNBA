@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC');
+
+html,
+body {
+    background: linear-gradient(to right bottom, silver, grey);
+    min-height: 100%;
+    margin: auto;
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+import "./team-details.css";
 
 const CountryDetails = (props) => (
     <div className="team-wrapper">
@@ -38,7 +39,7 @@ const CountryDetails = (props) => (
 
                 <div>
                     <span>Strona zespołu: </span>
-                    <span>{props.team.website}</span>
+                    <a href={props.team.website}>tu jest link</a>
                 </div>
             </div>
         </div>

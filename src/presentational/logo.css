@@ -1,29 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC');
-
-body {
-    background: linear-gradient(to right bottom, yellow, green);
-    margin: auto;
-}
-
 .team-logo {
     width: 200px;
     margin-left: 250px;
     margin-bottom: 30px;
-}
-
-.conference {
-    width: 800px;
-}
-
-.team-info {
-    text-align: center;
-    font-family: 'Merriweather', serif;
-}
-
-.team-photo {
-    height: 400px;
-    margin-left: 450px;
 }
 
 li {
