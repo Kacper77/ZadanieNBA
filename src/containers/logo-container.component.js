@@ -17,21 +17,25 @@ class TeamLogoContainer extends Component {
     }
 
     render() {
-        return (
-            <div>
-                <div className="search text-center">
-                    <input type="text" onChange={this.search.bind(this)}/>
-                </div>
-                <TeamLogoList teams={this.props.teams} />
-            </div>
+        return ( <
+            div >
+            <
+            div className = "search text-center" >
+            <
+            input type = "text"
+            onChange = { this.search.bind(this) }
+            /> < /
+            div > <
+            TeamLogoList teams = { this.props.teams }
+            /> < /
+            div >
         )
     }
 }
 
 const mapStateToProps = function(store) {
     return {
-        teams: store.teamsReducer.teams,
-        visibleTeams: store.teamsReducer.visibleTeams
+        teams: store.teamsReducer.visibleTeams
     };
 };
 

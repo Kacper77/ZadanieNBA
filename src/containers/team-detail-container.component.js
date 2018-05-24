@@ -13,8 +13,9 @@ class TeamDetailsContainer extends Component {
     }
 
     render() {
-        return (
-            <TeamDetails team={this.props.selectedTeam} />
+        return ( <
+            TeamDetails team = { this.props.selectedTeam }
+            />
         )
     }
 }

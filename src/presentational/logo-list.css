@@ -4,4 +4,13 @@
 
 .conference {
     width: 800px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 60px;
+    letter-spacing: 5px;
+    font-family: 'Rye', cursive;
+    text-transform: uppercase;
+    color: brown;
 }

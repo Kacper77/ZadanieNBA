@@ -11,7 +11,7 @@ const teamsReducer = function(state = initialState, action) {
     switch (action.type) {
 
         case GET_TEAM:
-            const selectedTeam = state.teams.find(team => team.id == action.id);
+            const selectedTeam = state.teams.find(team => team.id === Number(action.id));
             return Object.assign({}, state, { selectedTeam });
 
         case SEARCH_TEAM:
