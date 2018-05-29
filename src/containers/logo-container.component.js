@@ -23,6 +23,7 @@ class TeamLogoContainer extends Component {
             div className = "search text-center" >
             <
             input type = "text"
+            placeholder = "find team"
             onChange = { this.search.bind(this) }
             /> < /
             div > <

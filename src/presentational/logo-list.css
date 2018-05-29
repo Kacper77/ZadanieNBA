@@ -1,9 +1,10 @@
 .teams-list {
     display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .conference {
-    width: 800px;
     text-align: center;
 }
 

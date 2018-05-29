@@ -1,6 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router';
-import TeamLogo from '../presentational/logo.component';
 import ConferenceEast from './conferenceeast.component';
 import "./logo-list.css";
 import Conference from './conference.component';
