@@ -4,9 +4,6 @@ import { getTeam } from '../actions/actions-teams';
 import TeamDetails from '../presentational/team-details.component';
 
 class TeamDetailsContainer extends Component {
-    constructor(props) {
-        super(props);
-    }
 
     componentDidMount() {
         this.props.dispatch(getTeam(this.props.params.id));

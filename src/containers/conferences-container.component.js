@@ -4,9 +4,6 @@ import { setConference } from '../actions/actions-teams';
 import TeamLogoList from '../presentational/logo-list.component';
 
 class ConferencesContainer extends Component {
-    constructor(props) {
-        super(props);
-    }
 
     chooseConference(event) {
         this.props.dispatch(setConference(event.target.value))

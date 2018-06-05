@@ -3,7 +3,7 @@ import './logo.css';
 
 const TeamLogo = (props) => (
     <div className="team-logo-wrapper">
-        <img className="team-logo" src={props.team.imageUrl} alt="photo" />
+        <img className="team-logo" src={props.team.imageUrl} alt={props.team.name}/>
     </div>
 );
 

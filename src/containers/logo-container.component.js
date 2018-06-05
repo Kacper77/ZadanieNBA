@@ -4,9 +4,6 @@ import TeamLogoList from '../presentational/logo-list.component';
 import { searchTeam } from '../actions/actions-teams';
 
 class TeamLogoContainer extends Component {
-    constructor(props) {
-        super(props);
-    }
 
     componentDidMount() {
         this.props.dispatch(searchTeam(''));

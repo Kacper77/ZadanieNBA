@@ -25,9 +25,11 @@ const teamsReducer = function(state = initialState, action) {
         case SET_DIVISION:
             const divisionTeams = state.teams.filter(team => team.division === action.name);
             return Object.assign({}, state, { visibleTeams: divisionTeams });
+
+        default:
+            return state
     }
 
-    return state;
 };
 
 export default teamsReducer;
